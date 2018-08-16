@@ -9,7 +9,7 @@ class App extends Component {
           <h1>This is the header area</h1>
         </section>
         <section className="body">
-          <h1>This is the content area</h1>
+          <h1>This is the content</h1>
         </section>
         <section className="footer">
           <h1>This is the footer area</h1>
